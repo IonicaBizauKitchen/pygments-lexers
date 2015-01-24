@@ -1,0 +1,4878 @@
+[
+  {
+    "name": "ABAP",
+    "category": "business",
+    "aliases": [
+      "abap"
+    ],
+    "filenames": [
+      "*.abap"
+    ],
+    "mimetypes": [
+      "text/x-abap"
+    ]
+  },
+  {
+    "name": "APL",
+    "category": "apl",
+    "aliases": [
+      "apl"
+    ],
+    "filenames": [
+      "*.apl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ActionScript 3",
+    "category": "actionscript",
+    "aliases": [
+      "as3",
+      "actionscript3"
+    ],
+    "filenames": [
+      "*.as"
+    ],
+    "mimetypes": [
+      "application/x-actionscript3",
+      "text/x-actionscript3",
+      "text/actionscript3"
+    ]
+  },
+  {
+    "name": "ActionScript",
+    "category": "actionscript",
+    "aliases": [
+      "as",
+      "actionscript"
+    ],
+    "filenames": [
+      "*.as"
+    ],
+    "mimetypes": [
+      "application/x-actionscript",
+      "text/x-actionscript",
+      "text/actionscript"
+    ]
+  },
+  {
+    "name": "Ada",
+    "category": "pascal",
+    "aliases": [
+      "ada",
+      "ada95",
+      "ada2005"
+    ],
+    "filenames": [
+      "*.adb",
+      "*.ads",
+      "*.ada"
+    ],
+    "mimetypes": [
+      "text/x-ada"
+    ]
+  },
+  {
+    "name": "Agda",
+    "category": "haskell",
+    "aliases": [
+      "agda"
+    ],
+    "filenames": [
+      "*.agda"
+    ],
+    "mimetypes": [
+      "text/x-agda"
+    ]
+  },
+  {
+    "name": "Alloy",
+    "category": "dsls",
+    "aliases": [
+      "alloy"
+    ],
+    "filenames": [
+      "*.als"
+    ],
+    "mimetypes": [
+      "text/x-alloy"
+    ]
+  },
+  {
+    "name": "AmbientTalk",
+    "category": "ambient",
+    "aliases": [
+      "at",
+      "ambienttalk",
+      "ambienttalk/2"
+    ],
+    "filenames": [
+      "*.at"
+    ],
+    "mimetypes": [
+      "text/x-ambienttalk"
+    ]
+  },
+  {
+    "name": "ANTLR With ActionScript Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-as",
+      "antlr-actionscript"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR With C# Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-csharp",
+      "antlr-c#"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR With CPP Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-cpp"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR With Java Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-java"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR",
+    "category": "parsers",
+    "aliases": [
+      "antlr"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR With ObjectiveC Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-objc"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR With Perl Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-perl"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR With Python Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-python"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ANTLR With Ruby Target",
+    "category": "parsers",
+    "aliases": [
+      "antlr-ruby",
+      "antlr-rb"
+    ],
+    "filenames": [
+      "*.G",
+      "*.g"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ApacheConf",
+    "category": "configs",
+    "aliases": [
+      "apacheconf",
+      "aconf",
+      "apache"
+    ],
+    "filenames": [
+      ".htaccess",
+      "apache.conf",
+      "apache2.conf"
+    ],
+    "mimetypes": [
+      "text/x-apacheconf"
+    ]
+  },
+  {
+    "name": "AppleScript",
+    "category": "scripting",
+    "aliases": [
+      "applescript"
+    ],
+    "filenames": [
+      "*.applescript"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "AspectJ",
+    "category": "jvm",
+    "aliases": [
+      "aspectj"
+    ],
+    "filenames": [
+      "*.aj"
+    ],
+    "mimetypes": [
+      "text/x-aspectj"
+    ]
+  },
+  {
+    "name": "Asymptote",
+    "category": "graphics",
+    "aliases": [
+      "asy",
+      "asymptote"
+    ],
+    "filenames": [
+      "*.asy"
+    ],
+    "mimetypes": [
+      "text/x-asymptote"
+    ]
+  },
+  {
+    "name": "AutoIt",
+    "category": "automation",
+    "aliases": [
+      "autoit"
+    ],
+    "filenames": [
+      "*.au3"
+    ],
+    "mimetypes": [
+      "text/x-autoit"
+    ]
+  },
+  {
+    "name": "autohotkey",
+    "category": "automation",
+    "aliases": [
+      "ahk",
+      "autohotkey"
+    ],
+    "filenames": [
+      "*.ahk",
+      "*.ahkl"
+    ],
+    "mimetypes": [
+      "text/x-autohotkey"
+    ]
+  },
+  {
+    "name": "Awk",
+    "category": "textedit",
+    "aliases": [
+      "awk",
+      "gawk",
+      "mawk",
+      "nawk"
+    ],
+    "filenames": [
+      "*.awk"
+    ],
+    "mimetypes": [
+      "application/x-awk"
+    ]
+  },
+  {
+    "name": "BBCode",
+    "category": "markup",
+    "aliases": [
+      "bbcode"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-bbcode"
+    ]
+  },
+  {
+    "name": "Base Makefile",
+    "category": "make",
+    "aliases": [
+      "basemake"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "Bash",
+    "category": "shell",
+    "aliases": [
+      "bash",
+      "sh",
+      "ksh",
+      "shell"
+    ],
+    "filenames": [
+      "*.sh",
+      "*.ksh",
+      "*.bash",
+      "*.ebuild",
+      "*.eclass",
+      ".bashrc",
+      "bashrc",
+      ".bash_*",
+      "bash_*",
+      "PKGBUILD"
+    ],
+    "mimetypes": [
+      "application/x-sh",
+      "application/x-shellscript"
+    ]
+  },
+  {
+    "name": "Bash Session",
+    "category": "shell",
+    "aliases": [
+      "console"
+    ],
+    "filenames": [
+      "*.sh-session"
+    ],
+    "mimetypes": [
+      "application/x-shell-session"
+    ]
+  },
+  {
+    "name": "Batchfile",
+    "category": "shell",
+    "aliases": [
+      "bat",
+      "batch",
+      "dosbatch",
+      "winbatch"
+    ],
+    "filenames": [
+      "*.bat",
+      "*.cmd"
+    ],
+    "mimetypes": [
+      "application/x-dos-batch"
+    ]
+  },
+  {
+    "name": "Befunge",
+    "category": "esoteric",
+    "aliases": [
+      "befunge"
+    ],
+    "filenames": [
+      "*.befunge"
+    ],
+    "mimetypes": [
+      "application/x-befunge"
+    ]
+  },
+  {
+    "name": "BlitzBasic",
+    "category": "basic",
+    "aliases": [
+      "blitzbasic",
+      "b3d",
+      "bplus"
+    ],
+    "filenames": [
+      "*.bb",
+      "*.decls"
+    ],
+    "mimetypes": [
+      "text/x-bb"
+    ]
+  },
+  {
+    "name": "BlitzMax",
+    "category": "basic",
+    "aliases": [
+      "blitzmax",
+      "bmax"
+    ],
+    "filenames": [
+      "*.bmx"
+    ],
+    "mimetypes": [
+      "text/x-bmx"
+    ]
+  },
+  {
+    "name": "Boo",
+    "category": "dotnet",
+    "aliases": [
+      "boo"
+    ],
+    "filenames": [
+      "*.boo"
+    ],
+    "mimetypes": [
+      "text/x-boo"
+    ]
+  },
+  {
+    "name": "Brainfuck",
+    "category": "esoteric",
+    "aliases": [
+      "brainfuck",
+      "bf"
+    ],
+    "filenames": [
+      "*.bf",
+      "*.b"
+    ],
+    "mimetypes": [
+      "application/x-brainfuck"
+    ]
+  },
+  {
+    "name": "Bro",
+    "category": "dsls",
+    "aliases": [
+      "bro"
+    ],
+    "filenames": [
+      "*.bro"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "BUGS",
+    "category": "modeling",
+    "aliases": [
+      "bugs",
+      "winbugs",
+      "openbugs"
+    ],
+    "filenames": [
+      "*.bug"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "C",
+    "category": "c_cpp",
+    "aliases": [
+      "c"
+    ],
+    "filenames": [
+      "*.c",
+      "*.h",
+      "*.idc"
+    ],
+    "mimetypes": [
+      "text/x-chdr",
+      "text/x-csrc"
+    ]
+  },
+  {
+    "name": "CMake",
+    "category": "make",
+    "aliases": [
+      "cmake"
+    ],
+    "filenames": [
+      "*.cmake",
+      "CMakeLists.txt"
+    ],
+    "mimetypes": [
+      "text/x-cmake"
+    ]
+  },
+  {
+    "name": "c-objdump",
+    "category": "asm",
+    "aliases": [
+      "c-objdump"
+    ],
+    "filenames": [
+      "*.c-objdump"
+    ],
+    "mimetypes": [
+      "text/x-c-objdump"
+    ]
+  },
+  {
+    "name": "aspx-cs",
+    "category": "dotnet",
+    "aliases": [
+      "aspx-cs"
+    ],
+    "filenames": [
+      "*.aspx",
+      "*.asax",
+      "*.ascx",
+      "*.ashx",
+      "*.asmx",
+      "*.axd"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "C#",
+    "category": "dotnet",
+    "aliases": [
+      "csharp",
+      "c#"
+    ],
+    "filenames": [
+      "*.cs"
+    ],
+    "mimetypes": [
+      "text/x-csharp"
+    ]
+  },
+  {
+    "name": "ca65 assembler",
+    "category": "asm",
+    "aliases": [
+      "ca65"
+    ],
+    "filenames": [
+      "*.s"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "CBM BASIC V2",
+    "category": "basic",
+    "aliases": [
+      "cbmbas"
+    ],
+    "filenames": [
+      "*.bas"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Ceylon",
+    "category": "jvm",
+    "aliases": [
+      "ceylon"
+    ],
+    "filenames": [
+      "*.ceylon"
+    ],
+    "mimetypes": [
+      "text/x-ceylon"
+    ]
+  },
+  {
+    "name": "CFEngine3",
+    "category": "configs",
+    "aliases": [
+      "cfengine3",
+      "cf3"
+    ],
+    "filenames": [
+      "*.cf"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "ChaiScript",
+    "category": "scripting",
+    "aliases": [
+      "chai",
+      "chaiscript"
+    ],
+    "filenames": [
+      "*.chai"
+    ],
+    "mimetypes": [
+      "text/x-chaiscript",
+      "application/x-chaiscript"
+    ]
+  },
+  {
+    "name": "Chapel",
+    "category": "chapel",
+    "aliases": [
+      "chapel",
+      "chpl"
+    ],
+    "filenames": [
+      "*.chpl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "HTML+Cheetah",
+    "category": "templates",
+    "aliases": [
+      "html+cheetah",
+      "html+spitfire",
+      "htmlcheetah"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+cheetah",
+      "text/html+spitfire"
+    ]
+  },
+  {
+    "name": "JavaScript+Cheetah",
+    "category": "templates",
+    "aliases": [
+      "js+cheetah",
+      "javascript+cheetah",
+      "js+spitfire",
+      "javascript+spitfire"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+cheetah",
+      "text/x-javascript+cheetah",
+      "text/javascript+cheetah",
+      "application/x-javascript+spitfire",
+      "text/x-javascript+spitfire",
+      "text/javascript+spitfire"
+    ]
+  },
+  {
+    "name": "Cheetah",
+    "category": "templates",
+    "aliases": [
+      "cheetah",
+      "spitfire"
+    ],
+    "filenames": [
+      "*.tmpl",
+      "*.spt"
+    ],
+    "mimetypes": [
+      "application/x-cheetah",
+      "application/x-spitfire"
+    ]
+  },
+  {
+    "name": "XML+Cheetah",
+    "category": "templates",
+    "aliases": [
+      "xml+cheetah",
+      "xml+spitfire"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+cheetah",
+      "application/xml+spitfire"
+    ]
+  },
+  {
+    "name": "Cirru",
+    "category": "webmisc",
+    "aliases": [
+      "cirru"
+    ],
+    "filenames": [
+      "*.cirru"
+    ],
+    "mimetypes": [
+      "text/x-cirru"
+    ]
+  },
+  {
+    "name": "Clay",
+    "category": "c_like",
+    "aliases": [
+      "clay"
+    ],
+    "filenames": [
+      "*.clay"
+    ],
+    "mimetypes": [
+      "text/x-clay"
+    ]
+  },
+  {
+    "name": "Clojure",
+    "category": "jvm",
+    "aliases": [
+      "clojure",
+      "clj"
+    ],
+    "filenames": [
+      "*.clj"
+    ],
+    "mimetypes": [
+      "text/x-clojure",
+      "application/x-clojure"
+    ]
+  },
+  {
+    "name": "ClojureScript",
+    "category": "jvm",
+    "aliases": [
+      "clojurescript",
+      "cljs"
+    ],
+    "filenames": [
+      "*.cljs"
+    ],
+    "mimetypes": [
+      "text/x-clojurescript",
+      "application/x-clojurescript"
+    ]
+  },
+  {
+    "name": "COBOLFree",
+    "category": "business",
+    "aliases": [
+      "cobolfree"
+    ],
+    "filenames": [
+      "*.cbl",
+      "*.CBL"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "COBOL",
+    "category": "business",
+    "aliases": [
+      "cobol"
+    ],
+    "filenames": [
+      "*.cob",
+      "*.COB",
+      "*.cpy",
+      "*.CPY"
+    ],
+    "mimetypes": [
+      "text/x-cobol"
+    ]
+  },
+  {
+    "name": "CoffeeScript",
+    "category": "javascript",
+    "aliases": [
+      "coffee-script",
+      "coffeescript",
+      "coffee"
+    ],
+    "filenames": [
+      "*.coffee"
+    ],
+    "mimetypes": [
+      "text/coffeescript"
+    ]
+  },
+  {
+    "name": "Coldfusion CFC",
+    "category": "templates",
+    "aliases": [
+      "cfc"
+    ],
+    "filenames": [
+      "*.cfc"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Coldfusion HTML",
+    "category": "templates",
+    "aliases": [
+      "cfm"
+    ],
+    "filenames": [
+      "*.cfm",
+      "*.cfml"
+    ],
+    "mimetypes": [
+      "application/x-coldfusion"
+    ]
+  },
+  {
+    "name": "cfstatement",
+    "category": "templates",
+    "aliases": [
+      "cfs"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "Common Lisp",
+    "category": "lisp",
+    "aliases": [
+      "common-lisp",
+      "cl",
+      "lisp",
+      "elisp",
+      "emacs",
+      "emacs-lisp"
+    ],
+    "filenames": [
+      "*.cl",
+      "*.lisp",
+      "*.el"
+    ],
+    "mimetypes": [
+      "text/x-common-lisp"
+    ]
+  },
+  {
+    "name": "Coq",
+    "category": "theorem",
+    "aliases": [
+      "coq"
+    ],
+    "filenames": [
+      "*.v"
+    ],
+    "mimetypes": [
+      "text/x-coq"
+    ]
+  },
+  {
+    "name": "C++",
+    "category": "c_cpp",
+    "aliases": [
+      "cpp",
+      "c++"
+    ],
+    "filenames": [
+      "*.cpp",
+      "*.hpp",
+      "*.c++",
+      "*.h++",
+      "*.cc",
+      "*.hh",
+      "*.cxx",
+      "*.hxx",
+      "*.C",
+      "*.H",
+      "*.cp",
+      "*.CPP"
+    ],
+    "mimetypes": [
+      "text/x-c++hdr",
+      "text/x-c++src"
+    ]
+  },
+  {
+    "name": "cpp-objdump",
+    "category": "asm",
+    "aliases": [
+      "cpp-objdump",
+      "c++-objdumb",
+      "cxx-objdump"
+    ],
+    "filenames": [
+      "*.cpp-objdump",
+      "*.c++-objdump",
+      "*.cxx-objdump"
+    ],
+    "mimetypes": [
+      "text/x-cpp-objdump"
+    ]
+  },
+  {
+    "name": "Croc",
+    "category": "d",
+    "aliases": [
+      "croc"
+    ],
+    "filenames": [
+      "*.croc"
+    ],
+    "mimetypes": [
+      "text/x-crocsrc"
+    ]
+  },
+  {
+    "name": "Cryptol",
+    "category": "haskell",
+    "aliases": [
+      "cryptol",
+      "cry"
+    ],
+    "filenames": [
+      "*.cry"
+    ],
+    "mimetypes": [
+      "text/x-cryptol"
+    ]
+  },
+  {
+    "name": "CSS+Django/Jinja",
+    "category": "templates",
+    "aliases": [
+      "css+django",
+      "css+jinja"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+django",
+      "text/css+jinja"
+    ]
+  },
+  {
+    "name": "CSS+Ruby",
+    "category": "templates",
+    "aliases": [
+      "css+erb",
+      "css+ruby"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+ruby"
+    ]
+  },
+  {
+    "name": "CSS+Genshi Text",
+    "category": "templates",
+    "aliases": [
+      "css+genshitext",
+      "css+genshi"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+genshi"
+    ]
+  },
+  {
+    "name": "CSS",
+    "category": "css",
+    "aliases": [
+      "css"
+    ],
+    "filenames": [
+      "*.css"
+    ],
+    "mimetypes": [
+      "text/css"
+    ]
+  },
+  {
+    "name": "CSS+PHP",
+    "category": "templates",
+    "aliases": [
+      "css+php"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+php"
+    ]
+  },
+  {
+    "name": "CSS+Smarty",
+    "category": "templates",
+    "aliases": [
+      "css+smarty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+smarty"
+    ]
+  },
+  {
+    "name": "CUDA",
+    "category": "c_like",
+    "aliases": [
+      "cuda",
+      "cu"
+    ],
+    "filenames": [
+      "*.cu",
+      "*.cuh"
+    ],
+    "mimetypes": [
+      "text/x-cuda"
+    ]
+  },
+  {
+    "name": "Cypher",
+    "category": "graph",
+    "aliases": [
+      "cypher"
+    ],
+    "filenames": [
+      "*.cyp",
+      "*.cypher"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Cython",
+    "category": "python",
+    "aliases": [
+      "cython",
+      "pyx",
+      "pyrex"
+    ],
+    "filenames": [
+      "*.pyx",
+      "*.pxd",
+      "*.pxi"
+    ],
+    "mimetypes": [
+      "text/x-cython",
+      "application/x-cython"
+    ]
+  },
+  {
+    "name": "D",
+    "category": "d",
+    "aliases": [
+      "d"
+    ],
+    "filenames": [
+      "*.d",
+      "*.di"
+    ],
+    "mimetypes": [
+      "text/x-dsrc"
+    ]
+  },
+  {
+    "name": "d-objdump",
+    "category": "asm",
+    "aliases": [
+      "d-objdump"
+    ],
+    "filenames": [
+      "*.d-objdump"
+    ],
+    "mimetypes": [
+      "text/x-d-objdump"
+    ]
+  },
+  {
+    "name": "Darcs Patch",
+    "category": "diff",
+    "aliases": [
+      "dpatch"
+    ],
+    "filenames": [
+      "*.dpatch",
+      "*.darcspatch"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Dart",
+    "category": "javascript",
+    "aliases": [
+      "dart"
+    ],
+    "filenames": [
+      "*.dart"
+    ],
+    "mimetypes": [
+      "text/x-dart"
+    ]
+  },
+  {
+    "name": "Debian Control file",
+    "category": "installers",
+    "aliases": [
+      "control",
+      "debcontrol"
+    ],
+    "filenames": [
+      "control"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Delphi",
+    "category": "pascal",
+    "aliases": [
+      "delphi",
+      "pas",
+      "pascal",
+      "objectpascal"
+    ],
+    "filenames": [
+      "*.pas"
+    ],
+    "mimetypes": [
+      "text/x-pascal"
+    ]
+  },
+  {
+    "name": "dg",
+    "category": "python",
+    "aliases": [
+      "dg"
+    ],
+    "filenames": [
+      "*.dg"
+    ],
+    "mimetypes": [
+      "text/x-dg"
+    ]
+  },
+  {
+    "name": "Diff",
+    "category": "diff",
+    "aliases": [
+      "diff",
+      "udiff"
+    ],
+    "filenames": [
+      "*.diff",
+      "*.patch"
+    ],
+    "mimetypes": [
+      "text/x-diff",
+      "text/x-patch"
+    ]
+  },
+  {
+    "name": "Django/Jinja",
+    "category": "templates",
+    "aliases": [
+      "django",
+      "jinja"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-django-templating",
+      "application/x-jinja"
+    ]
+  },
+  {
+    "name": "Docker",
+    "category": "configs",
+    "aliases": [
+      "docker",
+      "dockerfile"
+    ],
+    "filenames": [
+      "Dockerfile",
+      "*.docker"
+    ],
+    "mimetypes": [
+      "text/x-dockerfile-config"
+    ]
+  },
+  {
+    "name": "DTD",
+    "category": "html",
+    "aliases": [
+      "dtd"
+    ],
+    "filenames": [
+      "*.dtd"
+    ],
+    "mimetypes": [
+      "application/xml-dtd"
+    ]
+  },
+  {
+    "name": "Duel",
+    "category": "webmisc",
+    "aliases": [
+      "duel",
+      "jbst",
+      "jsonml+bst"
+    ],
+    "filenames": [
+      "*.duel",
+      "*.jbst"
+    ],
+    "mimetypes": [
+      "text/x-duel",
+      "text/x-jbst"
+    ]
+  },
+  {
+    "name": "Dylan session",
+    "category": "dylan",
+    "aliases": [
+      "dylan-console",
+      "dylan-repl"
+    ],
+    "filenames": [
+      "*.dylan-console"
+    ],
+    "mimetypes": [
+      "text/x-dylan-console"
+    ]
+  },
+  {
+    "name": "Dylan",
+    "category": "dylan",
+    "aliases": [
+      "dylan"
+    ],
+    "filenames": [
+      "*.dylan",
+      "*.dyl",
+      "*.intr"
+    ],
+    "mimetypes": [
+      "text/x-dylan"
+    ]
+  },
+  {
+    "name": "DylanLID",
+    "category": "dylan",
+    "aliases": [
+      "dylan-lid",
+      "lid"
+    ],
+    "filenames": [
+      "*.lid",
+      "*.hdp"
+    ],
+    "mimetypes": [
+      "text/x-dylan-lid"
+    ]
+  },
+  {
+    "name": "ECL",
+    "category": "ecl",
+    "aliases": [
+      "ecl"
+    ],
+    "filenames": [
+      "*.ecl"
+    ],
+    "mimetypes": [
+      "application/x-ecl"
+    ]
+  },
+  {
+    "name": "eC",
+    "category": "c_like",
+    "aliases": [
+      "ec"
+    ],
+    "filenames": [
+      "*.ec",
+      "*.eh"
+    ],
+    "mimetypes": [
+      "text/x-echdr",
+      "text/x-ecsrc"
+    ]
+  },
+  {
+    "name": "EBNF",
+    "category": "parsers",
+    "aliases": [
+      "ebnf"
+    ],
+    "filenames": [
+      "*.ebnf"
+    ],
+    "mimetypes": [
+      "text/x-ebnf"
+    ]
+  },
+  {
+    "name": "Eiffel",
+    "category": "eiffel",
+    "aliases": [
+      "eiffel"
+    ],
+    "filenames": [
+      "*.e"
+    ],
+    "mimetypes": [
+      "text/x-eiffel"
+    ]
+  },
+  {
+    "name": "Elixir iex session",
+    "category": "erlang",
+    "aliases": [
+      "iex"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-elixir-shellsession"
+    ]
+  },
+  {
+    "name": "Elixir",
+    "category": "erlang",
+    "aliases": [
+      "elixir",
+      "ex",
+      "exs"
+    ],
+    "filenames": [
+      "*.ex",
+      "*.exs"
+    ],
+    "mimetypes": [
+      "text/x-elixir"
+    ]
+  },
+  {
+    "name": "ERB",
+    "category": "templates",
+    "aliases": [
+      "erb"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-ruby-templating"
+    ]
+  },
+  {
+    "name": "Erlang",
+    "category": "erlang",
+    "aliases": [
+      "erlang"
+    ],
+    "filenames": [
+      "*.erl",
+      "*.hrl",
+      "*.es",
+      "*.escript"
+    ],
+    "mimetypes": [
+      "text/x-erlang"
+    ]
+  },
+  {
+    "name": "Erlang erl session",
+    "category": "erlang",
+    "aliases": [
+      "erl"
+    ],
+    "filenames": [
+      "*.erl-sh"
+    ],
+    "mimetypes": [
+      "text/x-erl-shellsession"
+    ]
+  },
+  {
+    "name": "HTML+Evoque",
+    "category": "templates",
+    "aliases": [
+      "html+evoque"
+    ],
+    "filenames": [
+      "*.html"
+    ],
+    "mimetypes": [
+      "text/html+evoque"
+    ]
+  },
+  {
+    "name": "Evoque",
+    "category": "templates",
+    "aliases": [
+      "evoque"
+    ],
+    "filenames": [
+      "*.evoque"
+    ],
+    "mimetypes": [
+      "application/x-evoque"
+    ]
+  },
+  {
+    "name": "XML+Evoque",
+    "category": "templates",
+    "aliases": [
+      "xml+evoque"
+    ],
+    "filenames": [
+      "*.xml"
+    ],
+    "mimetypes": [
+      "application/xml+evoque"
+    ]
+  },
+  {
+    "name": "FSharp",
+    "category": "dotnet",
+    "aliases": [
+      "fsharp"
+    ],
+    "filenames": [
+      "*.fs",
+      "*.fsi"
+    ],
+    "mimetypes": [
+      "text/x-fsharp"
+    ]
+  },
+  {
+    "name": "Factor",
+    "category": "factor",
+    "aliases": [
+      "factor"
+    ],
+    "filenames": [
+      "*.factor"
+    ],
+    "mimetypes": [
+      "text/x-factor"
+    ]
+  },
+  {
+    "name": "Fancy",
+    "category": "ruby",
+    "aliases": [
+      "fancy",
+      "fy"
+    ],
+    "filenames": [
+      "*.fy",
+      "*.fancypack"
+    ],
+    "mimetypes": [
+      "text/x-fancysrc"
+    ]
+  },
+  {
+    "name": "Fantom",
+    "category": "fantom",
+    "aliases": [
+      "fan"
+    ],
+    "filenames": [
+      "*.fan"
+    ],
+    "mimetypes": [
+      "application/x-fantom"
+    ]
+  },
+  {
+    "name": "Felix",
+    "category": "felix",
+    "aliases": [
+      "felix",
+      "flx"
+    ],
+    "filenames": [
+      "*.flx",
+      "*.flxh"
+    ],
+    "mimetypes": [
+      "text/x-felix"
+    ]
+  },
+  {
+    "name": "Fortran",
+    "category": "fortran",
+    "aliases": [
+      "fortran"
+    ],
+    "filenames": [
+      "*.f",
+      "*.f90",
+      "*.F",
+      "*.F90"
+    ],
+    "mimetypes": [
+      "text/x-fortran"
+    ]
+  },
+  {
+    "name": "FoxPro",
+    "category": "foxpro",
+    "aliases": [
+      "foxpro",
+      "vfp",
+      "clipper",
+      "xbase"
+    ],
+    "filenames": [
+      "*.PRG",
+      "*.prg"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "GAP",
+    "category": "algebra",
+    "aliases": [
+      "gap"
+    ],
+    "filenames": [
+      "*.g",
+      "*.gd",
+      "*.gi",
+      "*.gap"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "GLSL",
+    "category": "graphics",
+    "aliases": [
+      "glsl"
+    ],
+    "filenames": [
+      "*.vert",
+      "*.frag",
+      "*.geo"
+    ],
+    "mimetypes": [
+      "text/x-glslsrc"
+    ]
+  },
+  {
+    "name": "GAS",
+    "category": "asm",
+    "aliases": [
+      "gas",
+      "asm"
+    ],
+    "filenames": [
+      "*.s",
+      "*.S"
+    ],
+    "mimetypes": [
+      "text/x-gas"
+    ]
+  },
+  {
+    "name": "Genshi",
+    "category": "templates",
+    "aliases": [
+      "genshi",
+      "kid",
+      "xml+genshi",
+      "xml+kid"
+    ],
+    "filenames": [
+      "*.kid"
+    ],
+    "mimetypes": [
+      "application/x-genshi",
+      "application/x-kid"
+    ]
+  },
+  {
+    "name": "Genshi Text",
+    "category": "templates",
+    "aliases": [
+      "genshitext"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-genshi-text",
+      "text/x-genshi"
+    ]
+  },
+  {
+    "name": "Gettext Catalog",
+    "category": "textfmts",
+    "aliases": [
+      "pot",
+      "po"
+    ],
+    "filenames": [
+      "*.pot",
+      "*.po"
+    ],
+    "mimetypes": [
+      "application/x-gettext",
+      "text/x-gettext",
+      "text/gettext"
+    ]
+  },
+  {
+    "name": "Gherkin",
+    "category": "testing",
+    "aliases": [
+      "cucumber",
+      "gherkin"
+    ],
+    "filenames": [
+      "*.feature"
+    ],
+    "mimetypes": [
+      "text/x-gherkin"
+    ]
+  },
+  {
+    "name": "Gnuplot",
+    "category": "graphics",
+    "aliases": [
+      "gnuplot"
+    ],
+    "filenames": [
+      "*.plot",
+      "*.plt"
+    ],
+    "mimetypes": [
+      "text/x-gnuplot"
+    ]
+  },
+  {
+    "name": "Go",
+    "category": "go",
+    "aliases": [
+      "go"
+    ],
+    "filenames": [
+      "*.go"
+    ],
+    "mimetypes": [
+      "text/x-gosrc"
+    ]
+  },
+  {
+    "name": "Golo",
+    "category": "jvm",
+    "aliases": [
+      "golo"
+    ],
+    "filenames": [
+      "*.golo"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "GoodData-CL",
+    "category": "business",
+    "aliases": [
+      "gooddata-cl"
+    ],
+    "filenames": [
+      "*.gdc"
+    ],
+    "mimetypes": [
+      "text/x-gooddata-cl"
+    ]
+  },
+  {
+    "name": "Gosu",
+    "category": "jvm",
+    "aliases": [
+      "gosu"
+    ],
+    "filenames": [
+      "*.gs",
+      "*.gsx",
+      "*.gsp",
+      "*.vark"
+    ],
+    "mimetypes": [
+      "text/x-gosu"
+    ]
+  },
+  {
+    "name": "Gosu Template",
+    "category": "jvm",
+    "aliases": [
+      "gst"
+    ],
+    "filenames": [
+      "*.gst"
+    ],
+    "mimetypes": [
+      "text/x-gosu-template"
+    ]
+  },
+  {
+    "name": "Groff",
+    "category": "markup",
+    "aliases": [
+      "groff",
+      "nroff",
+      "man"
+    ],
+    "filenames": [
+      "*.[1234567]",
+      "*.man"
+    ],
+    "mimetypes": [
+      "application/x-troff",
+      "text/troff"
+    ]
+  },
+  {
+    "name": "Groovy",
+    "category": "jvm",
+    "aliases": [
+      "groovy"
+    ],
+    "filenames": [
+      "*.groovy"
+    ],
+    "mimetypes": [
+      "text/x-groovy"
+    ]
+  },
+  {
+    "name": "Haml",
+    "category": "html",
+    "aliases": [
+      "haml"
+    ],
+    "filenames": [
+      "*.haml"
+    ],
+    "mimetypes": [
+      "text/x-haml"
+    ]
+  },
+  {
+    "name": "HTML+Handlebars",
+    "category": "templates",
+    "aliases": [
+      "html+handlebars"
+    ],
+    "filenames": [
+      "*.handlebars",
+      "*.hbs"
+    ],
+    "mimetypes": [
+      "text/html+handlebars",
+      "text/x-handlebars-template"
+    ]
+  },
+  {
+    "name": "Handlebars",
+    "category": "templates",
+    "aliases": [
+      "handlebars"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "Haskell",
+    "category": "haskell",
+    "aliases": [
+      "haskell",
+      "hs"
+    ],
+    "filenames": [
+      "*.hs"
+    ],
+    "mimetypes": [
+      "text/x-haskell"
+    ]
+  },
+  {
+    "name": "Haxe",
+    "category": "haxe",
+    "aliases": [
+      "hx",
+      "haxe",
+      "hxsl"
+    ],
+    "filenames": [
+      "*.hx",
+      "*.hxsl"
+    ],
+    "mimetypes": [
+      "text/haxe",
+      "text/x-haxe",
+      "text/x-hx"
+    ]
+  },
+  {
+    "name": "HTML+Django/Jinja",
+    "category": "templates",
+    "aliases": [
+      "html+django",
+      "html+jinja",
+      "htmldjango"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+django",
+      "text/html+jinja"
+    ]
+  },
+  {
+    "name": "HTML+Genshi",
+    "category": "templates",
+    "aliases": [
+      "html+genshi",
+      "html+kid"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+genshi"
+    ]
+  },
+  {
+    "name": "HTML",
+    "category": "html",
+    "aliases": [
+      "html"
+    ],
+    "filenames": [
+      "*.html",
+      "*.htm",
+      "*.xhtml",
+      "*.xslt"
+    ],
+    "mimetypes": [
+      "text/html",
+      "application/xhtml+xml"
+    ]
+  },
+  {
+    "name": "HTML+PHP",
+    "category": "templates",
+    "aliases": [
+      "html+php"
+    ],
+    "filenames": [
+      "*.phtml"
+    ],
+    "mimetypes": [
+      "application/x-php",
+      "application/x-httpd-php",
+      "application/x-httpd-php3",
+      "application/x-httpd-php4",
+      "application/x-httpd-php5"
+    ]
+  },
+  {
+    "name": "HTML+Smarty",
+    "category": "templates",
+    "aliases": [
+      "html+smarty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+smarty"
+    ]
+  },
+  {
+    "name": "HTTP",
+    "category": "textfmts",
+    "aliases": [
+      "http"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "Hxml",
+    "category": "haxe",
+    "aliases": [
+      "haxeml",
+      "hxml"
+    ],
+    "filenames": [
+      "*.hxml"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Hy",
+    "category": "lisp",
+    "aliases": [
+      "hylang"
+    ],
+    "filenames": [
+      "*.hy"
+    ],
+    "mimetypes": [
+      "text/x-hy",
+      "application/x-hy"
+    ]
+  },
+  {
+    "name": "Hybris",
+    "category": "scripting",
+    "aliases": [
+      "hybris",
+      "hy"
+    ],
+    "filenames": [
+      "*.hy",
+      "*.hyb"
+    ],
+    "mimetypes": [
+      "text/x-hybris",
+      "application/x-hybris"
+    ]
+  },
+  {
+    "name": "IDL",
+    "category": "idl",
+    "aliases": [
+      "idl"
+    ],
+    "filenames": [
+      "*.pro"
+    ],
+    "mimetypes": [
+      "text/idl"
+    ]
+  },
+  {
+    "name": "Idris",
+    "category": "haskell",
+    "aliases": [
+      "idris",
+      "idr"
+    ],
+    "filenames": [
+      "*.idr"
+    ],
+    "mimetypes": [
+      "text/x-idris"
+    ]
+  },
+  {
+    "name": "Igor",
+    "category": "igor",
+    "aliases": [
+      "igor",
+      "igorpro"
+    ],
+    "filenames": [
+      "*.ipf"
+    ],
+    "mimetypes": [
+      "text/ipf"
+    ]
+  },
+  {
+    "name": "Inform 6",
+    "category": "int_fiction",
+    "aliases": [
+      "inform6",
+      "i6"
+    ],
+    "filenames": [
+      "*.inf"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Inform 6 template",
+    "category": "int_fiction",
+    "aliases": [
+      "i6t"
+    ],
+    "filenames": [
+      "*.i6t"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Inform 7",
+    "category": "int_fiction",
+    "aliases": [
+      "inform7",
+      "i7"
+    ],
+    "filenames": [
+      "*.ni",
+      "*.i7x"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "INI",
+    "category": "configs",
+    "aliases": [
+      "ini",
+      "cfg",
+      "dosini"
+    ],
+    "filenames": [
+      "*.ini",
+      "*.cfg"
+    ],
+    "mimetypes": [
+      "text/x-ini"
+    ]
+  },
+  {
+    "name": "Io",
+    "category": "iolang",
+    "aliases": [
+      "io"
+    ],
+    "filenames": [
+      "*.io"
+    ],
+    "mimetypes": [
+      "text/x-iosrc"
+    ]
+  },
+  {
+    "name": "Ioke",
+    "category": "jvm",
+    "aliases": [
+      "ioke",
+      "ik"
+    ],
+    "filenames": [
+      "*.ik"
+    ],
+    "mimetypes": [
+      "text/x-iokesrc"
+    ]
+  },
+  {
+    "name": "IRC logs",
+    "category": "textfmts",
+    "aliases": [
+      "irc"
+    ],
+    "filenames": [
+      "*.weechatlog"
+    ],
+    "mimetypes": [
+      "text/x-irclog"
+    ]
+  },
+  {
+    "name": "Isabelle",
+    "category": "theorem",
+    "aliases": [
+      "isabelle"
+    ],
+    "filenames": [
+      "*.thy"
+    ],
+    "mimetypes": [
+      "text/x-isabelle"
+    ]
+  },
+  {
+    "name": "Jade",
+    "category": "html",
+    "aliases": [
+      "jade"
+    ],
+    "filenames": [
+      "*.jade"
+    ],
+    "mimetypes": [
+      "text/x-jade"
+    ]
+  },
+  {
+    "name": "JAGS",
+    "category": "modeling",
+    "aliases": [
+      "jags"
+    ],
+    "filenames": [
+      "*.jag",
+      "*.bug"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Jasmin",
+    "category": "jvm",
+    "aliases": [
+      "jasmin",
+      "jasminxt"
+    ],
+    "filenames": [
+      "*.j"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Java",
+    "category": "jvm",
+    "aliases": [
+      "java"
+    ],
+    "filenames": [
+      "*.java"
+    ],
+    "mimetypes": [
+      "text/x-java"
+    ]
+  },
+  {
+    "name": "JavaScript+Django/Jinja",
+    "category": "templates",
+    "aliases": [
+      "js+django",
+      "javascript+django",
+      "js+jinja",
+      "javascript+jinja"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+django",
+      "application/x-javascript+jinja",
+      "text/x-javascript+django",
+      "text/x-javascript+jinja",
+      "text/javascript+django",
+      "text/javascript+jinja"
+    ]
+  },
+  {
+    "name": "JavaScript+Ruby",
+    "category": "templates",
+    "aliases": [
+      "js+erb",
+      "javascript+erb",
+      "js+ruby",
+      "javascript+ruby"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+ruby",
+      "text/x-javascript+ruby",
+      "text/javascript+ruby"
+    ]
+  },
+  {
+    "name": "JavaScript+Genshi Text",
+    "category": "templates",
+    "aliases": [
+      "js+genshitext",
+      "js+genshi",
+      "javascript+genshitext",
+      "javascript+genshi"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+genshi",
+      "text/x-javascript+genshi",
+      "text/javascript+genshi"
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "category": "javascript",
+    "aliases": [
+      "js",
+      "javascript"
+    ],
+    "filenames": [
+      "*.js"
+    ],
+    "mimetypes": [
+      "application/javascript",
+      "application/x-javascript",
+      "text/x-javascript",
+      "text/javascript"
+    ]
+  },
+  {
+    "name": "JavaScript+PHP",
+    "category": "templates",
+    "aliases": [
+      "js+php",
+      "javascript+php"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+php",
+      "text/x-javascript+php",
+      "text/javascript+php"
+    ]
+  },
+  {
+    "name": "JavaScript+Smarty",
+    "category": "templates",
+    "aliases": [
+      "js+smarty",
+      "javascript+smarty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+smarty",
+      "text/x-javascript+smarty",
+      "text/javascript+smarty"
+    ]
+  },
+  {
+    "name": "JSON-LD",
+    "category": "data",
+    "aliases": [
+      "jsonld",
+      "json-ld"
+    ],
+    "filenames": [
+      "*.jsonld"
+    ],
+    "mimetypes": [
+      "application/ld+json"
+    ]
+  },
+  {
+    "name": "JSON",
+    "category": "data",
+    "aliases": [
+      "json"
+    ],
+    "filenames": [
+      "*.json"
+    ],
+    "mimetypes": [
+      "application/json"
+    ]
+  },
+  {
+    "name": "Java Server Page",
+    "category": "templates",
+    "aliases": [
+      "jsp"
+    ],
+    "filenames": [
+      "*.jsp"
+    ],
+    "mimetypes": [
+      "application/x-jsp"
+    ]
+  },
+  {
+    "name": "Julia console",
+    "category": "julia",
+    "aliases": [
+      "jlcon"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "Julia",
+    "category": "julia",
+    "aliases": [
+      "julia",
+      "jl"
+    ],
+    "filenames": [
+      "*.jl"
+    ],
+    "mimetypes": [
+      "text/x-julia",
+      "application/x-julia"
+    ]
+  },
+  {
+    "name": "Kal",
+    "category": "javascript",
+    "aliases": [
+      "kal"
+    ],
+    "filenames": [
+      "*.kal"
+    ],
+    "mimetypes": [
+      "text/kal",
+      "application/kal"
+    ]
+  },
+  {
+    "name": "Kconfig",
+    "category": "configs",
+    "aliases": [
+      "kconfig",
+      "menuconfig",
+      "linux-config",
+      "kernel-config"
+    ],
+    "filenames": [
+      "Kconfig",
+      "*Config.in*",
+      "external.in*",
+      "standard-modules.in"
+    ],
+    "mimetypes": [
+      "text/x-kconfig"
+    ]
+  },
+  {
+    "name": "Koka",
+    "category": "haskell",
+    "aliases": [
+      "koka"
+    ],
+    "filenames": [
+      "*.kk",
+      "*.kki"
+    ],
+    "mimetypes": [
+      "text/x-koka"
+    ]
+  },
+  {
+    "name": "Kotlin",
+    "category": "jvm",
+    "aliases": [
+      "kotlin"
+    ],
+    "filenames": [
+      "*.kt"
+    ],
+    "mimetypes": [
+      "text/x-kotlin"
+    ]
+  },
+  {
+    "name": "LSL",
+    "category": "scripting",
+    "aliases": [
+      "lsl"
+    ],
+    "filenames": [
+      "*.lsl"
+    ],
+    "mimetypes": [
+      "text/x-lsl"
+    ]
+  },
+  {
+    "name": "CSS+Lasso",
+    "category": "templates",
+    "aliases": [
+      "css+lasso"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+lasso"
+    ]
+  },
+  {
+    "name": "HTML+Lasso",
+    "category": "templates",
+    "aliases": [
+      "html+lasso"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+lasso",
+      "application/x-httpd-lasso",
+      "application/x-httpd-lasso[89]"
+    ]
+  },
+  {
+    "name": "JavaScript+Lasso",
+    "category": "templates",
+    "aliases": [
+      "js+lasso",
+      "javascript+lasso"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+lasso",
+      "text/x-javascript+lasso",
+      "text/javascript+lasso"
+    ]
+  },
+  {
+    "name": "Lasso",
+    "category": "javascript",
+    "aliases": [
+      "lasso",
+      "lassoscript"
+    ],
+    "filenames": [
+      "*.lasso",
+      "*.lasso[89]"
+    ],
+    "mimetypes": [
+      "text/x-lasso"
+    ]
+  },
+  {
+    "name": "XML+Lasso",
+    "category": "templates",
+    "aliases": [
+      "xml+lasso"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+lasso"
+    ]
+  },
+  {
+    "name": "Lean",
+    "category": "theorem",
+    "aliases": [
+      "lean"
+    ],
+    "filenames": [
+      "*.lean"
+    ],
+    "mimetypes": [
+      "text/x-lean"
+    ]
+  },
+  {
+    "name": "Lighttpd configuration file",
+    "category": "configs",
+    "aliases": [
+      "lighty",
+      "lighttpd"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-lighttpd-conf"
+    ]
+  },
+  {
+    "name": "Limbo",
+    "category": "inferno",
+    "aliases": [
+      "limbo"
+    ],
+    "filenames": [
+      "*.b"
+    ],
+    "mimetypes": [
+      "text/limbo"
+    ]
+  },
+  {
+    "name": "liquid",
+    "category": "templates",
+    "aliases": [
+      "liquid"
+    ],
+    "filenames": [
+      "*.liquid"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Literate Agda",
+    "category": "haskell",
+    "aliases": [
+      "lagda",
+      "literate-agda"
+    ],
+    "filenames": [
+      "*.lagda"
+    ],
+    "mimetypes": [
+      "text/x-literate-agda"
+    ]
+  },
+  {
+    "name": "Literate Cryptol",
+    "category": "haskell",
+    "aliases": [
+      "lcry",
+      "literate-cryptol",
+      "lcryptol"
+    ],
+    "filenames": [
+      "*.lcry"
+    ],
+    "mimetypes": [
+      "text/x-literate-cryptol"
+    ]
+  },
+  {
+    "name": "Literate Haskell",
+    "category": "haskell",
+    "aliases": [
+      "lhs",
+      "literate-haskell",
+      "lhaskell"
+    ],
+    "filenames": [
+      "*.lhs"
+    ],
+    "mimetypes": [
+      "text/x-literate-haskell"
+    ]
+  },
+  {
+    "name": "Literate Idris",
+    "category": "haskell",
+    "aliases": [
+      "lidr",
+      "literate-idris",
+      "lidris"
+    ],
+    "filenames": [
+      "*.lidr"
+    ],
+    "mimetypes": [
+      "text/x-literate-idris"
+    ]
+  },
+  {
+    "name": "LiveScript",
+    "category": "javascript",
+    "aliases": [
+      "live-script",
+      "livescript"
+    ],
+    "filenames": [
+      "*.ls"
+    ],
+    "mimetypes": [
+      "text/livescript"
+    ]
+  },
+  {
+    "name": "LLVM",
+    "category": "asm",
+    "aliases": [
+      "llvm"
+    ],
+    "filenames": [
+      "*.ll"
+    ],
+    "mimetypes": [
+      "text/x-llvm"
+    ]
+  },
+  {
+    "name": "Logos",
+    "category": "objective",
+    "aliases": [
+      "logos"
+    ],
+    "filenames": [
+      "*.x",
+      "*.xi",
+      "*.xm",
+      "*.xmi"
+    ],
+    "mimetypes": [
+      "text/x-logos"
+    ]
+  },
+  {
+    "name": "Logtalk",
+    "category": "prolog",
+    "aliases": [
+      "logtalk"
+    ],
+    "filenames": [
+      "*.lgt",
+      "*.logtalk"
+    ],
+    "mimetypes": [
+      "text/x-logtalk"
+    ]
+  },
+  {
+    "name": "Lua",
+    "category": "scripting",
+    "aliases": [
+      "lua"
+    ],
+    "filenames": [
+      "*.lua",
+      "*.wlua"
+    ],
+    "mimetypes": [
+      "text/x-lua",
+      "application/x-lua"
+    ]
+  },
+  {
+    "name": "MOOCode",
+    "category": "scripting",
+    "aliases": [
+      "moocode",
+      "moo"
+    ],
+    "filenames": [
+      "*.moo"
+    ],
+    "mimetypes": [
+      "text/x-moocode"
+    ]
+  },
+  {
+    "name": "Makefile",
+    "category": "make",
+    "aliases": [
+      "make",
+      "makefile",
+      "mf",
+      "bsdmake"
+    ],
+    "filenames": [
+      "*.mak",
+      "*.mk",
+      "Makefile",
+      "makefile",
+      "Makefile.*",
+      "GNUmakefile"
+    ],
+    "mimetypes": [
+      "text/x-makefile"
+    ]
+  },
+  {
+    "name": "CSS+Mako",
+    "category": "templates",
+    "aliases": [
+      "css+mako"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+mako"
+    ]
+  },
+  {
+    "name": "HTML+Mako",
+    "category": "templates",
+    "aliases": [
+      "html+mako"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+mako"
+    ]
+  },
+  {
+    "name": "JavaScript+Mako",
+    "category": "templates",
+    "aliases": [
+      "js+mako",
+      "javascript+mako"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+mako",
+      "text/x-javascript+mako",
+      "text/javascript+mako"
+    ]
+  },
+  {
+    "name": "Mako",
+    "category": "templates",
+    "aliases": [
+      "mako"
+    ],
+    "filenames": [
+      "*.mao"
+    ],
+    "mimetypes": [
+      "application/x-mako"
+    ]
+  },
+  {
+    "name": "XML+Mako",
+    "category": "templates",
+    "aliases": [
+      "xml+mako"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+mako"
+    ]
+  },
+  {
+    "name": "MAQL",
+    "category": "business",
+    "aliases": [
+      "maql"
+    ],
+    "filenames": [
+      "*.maql"
+    ],
+    "mimetypes": [
+      "text/x-gooddata-maql",
+      "application/x-gooddata-maql"
+    ]
+  },
+  {
+    "name": "Mask",
+    "category": "javascript",
+    "aliases": [
+      "mask"
+    ],
+    "filenames": [
+      "*.mask"
+    ],
+    "mimetypes": [
+      "text/x-mask"
+    ]
+  },
+  {
+    "name": "Mason",
+    "category": "templates",
+    "aliases": [
+      "mason"
+    ],
+    "filenames": [
+      "*.m",
+      "*.mhtml",
+      "*.mc",
+      "*.mi",
+      "autohandler",
+      "dhandler"
+    ],
+    "mimetypes": [
+      "application/x-mason"
+    ]
+  },
+  {
+    "name": "Mathematica",
+    "category": "algebra",
+    "aliases": [
+      "mathematica",
+      "mma",
+      "nb"
+    ],
+    "filenames": [
+      "*.nb",
+      "*.cdf",
+      "*.nbp",
+      "*.ma"
+    ],
+    "mimetypes": [
+      "application/mathematica",
+      "application/vnd.wolfram.mathematica",
+      "application/vnd.wolfram.mathematica.package",
+      "application/vnd.wolfram.cdf"
+    ]
+  },
+  {
+    "name": "Matlab",
+    "category": "matlab",
+    "aliases": [
+      "matlab"
+    ],
+    "filenames": [
+      "*.m"
+    ],
+    "mimetypes": [
+      "text/matlab"
+    ]
+  },
+  {
+    "name": "Matlab session",
+    "category": "matlab",
+    "aliases": [
+      "matlabsession"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "MiniD",
+    "category": "d",
+    "aliases": [
+      "minid"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-minidsrc"
+    ]
+  },
+  {
+    "name": "Modelica",
+    "category": "modeling",
+    "aliases": [
+      "modelica"
+    ],
+    "filenames": [
+      "*.mo"
+    ],
+    "mimetypes": [
+      "text/x-modelica"
+    ]
+  },
+  {
+    "name": "Modula-2",
+    "category": "pascal",
+    "aliases": [
+      "modula2",
+      "m2"
+    ],
+    "filenames": [
+      "*.def",
+      "*.mod"
+    ],
+    "mimetypes": [
+      "text/x-modula2"
+    ]
+  },
+  {
+    "name": "MoinMoin/Trac Wiki markup",
+    "category": "markup",
+    "aliases": [
+      "trac-wiki",
+      "moin"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-trac-wiki"
+    ]
+  },
+  {
+    "name": "Monkey",
+    "category": "basic",
+    "aliases": [
+      "monkey"
+    ],
+    "filenames": [
+      "*.monkey"
+    ],
+    "mimetypes": [
+      "text/x-monkey"
+    ]
+  },
+  {
+    "name": "MoonScript",
+    "category": "scripting",
+    "aliases": [
+      "moon",
+      "moonscript"
+    ],
+    "filenames": [
+      "*.moon"
+    ],
+    "mimetypes": [
+      "text/x-moonscript",
+      "application/x-moonscript"
+    ]
+  },
+  {
+    "name": "CSS+mozpreproc",
+    "category": "markup",
+    "aliases": [
+      "css+mozpreproc"
+    ],
+    "filenames": [
+      "*.css.in"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "mozhashpreproc",
+    "category": "markup",
+    "aliases": [
+      "mozhashpreproc"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "Javascript+mozpreproc",
+    "category": "markup",
+    "aliases": [
+      "javascript+mozpreproc"
+    ],
+    "filenames": [
+      "*.js.in"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "mozpercentpreproc",
+    "category": "markup",
+    "aliases": [
+      "mozpercentpreproc"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "XUL+mozpreproc",
+    "category": "markup",
+    "aliases": [
+      "xul+mozpreproc"
+    ],
+    "filenames": [
+      "*.xul.in"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "MQL",
+    "category": "c_like",
+    "aliases": [
+      "mql",
+      "mq4",
+      "mq5",
+      "mql4",
+      "mql5"
+    ],
+    "filenames": [
+      "*.mq4",
+      "*.mq5",
+      "*.mqh"
+    ],
+    "mimetypes": [
+      "text/x-mql"
+    ]
+  },
+  {
+    "name": "Mscgen",
+    "category": "dsls",
+    "aliases": [
+      "mscgen",
+      "msc"
+    ],
+    "filenames": [
+      "*.msc"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "MuPAD",
+    "category": "algebra",
+    "aliases": [
+      "mupad"
+    ],
+    "filenames": [
+      "*.mu"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "MXML",
+    "category": "actionscript",
+    "aliases": [
+      "mxml"
+    ],
+    "filenames": [
+      "*.mxml"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "MySQL",
+    "category": "sql",
+    "aliases": [
+      "mysql"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-mysql"
+    ]
+  },
+  {
+    "name": "CSS+Myghty",
+    "category": "templates",
+    "aliases": [
+      "css+myghty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/css+myghty"
+    ]
+  },
+  {
+    "name": "HTML+Myghty",
+    "category": "templates",
+    "aliases": [
+      "html+myghty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+myghty"
+    ]
+  },
+  {
+    "name": "JavaScript+Myghty",
+    "category": "templates",
+    "aliases": [
+      "js+myghty",
+      "javascript+myghty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-javascript+myghty",
+      "text/x-javascript+myghty",
+      "text/javascript+mygthy"
+    ]
+  },
+  {
+    "name": "Myghty",
+    "category": "templates",
+    "aliases": [
+      "myghty"
+    ],
+    "filenames": [
+      "*.myt",
+      "autodelegate"
+    ],
+    "mimetypes": [
+      "application/x-myghty"
+    ]
+  },
+  {
+    "name": "XML+Myghty",
+    "category": "templates",
+    "aliases": [
+      "xml+myghty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+myghty"
+    ]
+  },
+  {
+    "name": "NSIS",
+    "category": "installers",
+    "aliases": [
+      "nsis",
+      "nsi",
+      "nsh"
+    ],
+    "filenames": [
+      "*.nsi",
+      "*.nsh"
+    ],
+    "mimetypes": [
+      "text/x-nsis"
+    ]
+  },
+  {
+    "name": "NASM",
+    "category": "asm",
+    "aliases": [
+      "nasm"
+    ],
+    "filenames": [
+      "*.asm",
+      "*.ASM"
+    ],
+    "mimetypes": [
+      "text/x-nasm"
+    ]
+  },
+  {
+    "name": "objdump-nasm",
+    "category": "asm",
+    "aliases": [
+      "objdump-nasm"
+    ],
+    "filenames": [
+      "*.objdump-intel"
+    ],
+    "mimetypes": [
+      "text/x-nasm-objdump"
+    ]
+  },
+  {
+    "name": "Nemerle",
+    "category": "dotnet",
+    "aliases": [
+      "nemerle"
+    ],
+    "filenames": [
+      "*.n"
+    ],
+    "mimetypes": [
+      "text/x-nemerle"
+    ]
+  },
+  {
+    "name": "nesC",
+    "category": "c_like",
+    "aliases": [
+      "nesc"
+    ],
+    "filenames": [
+      "*.nc"
+    ],
+    "mimetypes": [
+      "text/x-nescsrc"
+    ]
+  },
+  {
+    "name": "NewLisp",
+    "category": "lisp",
+    "aliases": [
+      "newlisp"
+    ],
+    "filenames": [
+      "*.lsp",
+      "*.nl"
+    ],
+    "mimetypes": [
+      "text/x-newlisp",
+      "application/x-newlisp"
+    ]
+  },
+  {
+    "name": "Newspeak",
+    "category": "smalltalk",
+    "aliases": [
+      "newspeak"
+    ],
+    "filenames": [
+      "*.ns2"
+    ],
+    "mimetypes": [
+      "text/x-newspeak"
+    ]
+  },
+  {
+    "name": "Nginx configuration file",
+    "category": "configs",
+    "aliases": [
+      "nginx"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-nginx-conf"
+    ]
+  },
+  {
+    "name": "Nimrod",
+    "category": "nimrod",
+    "aliases": [
+      "nimrod",
+      "nim"
+    ],
+    "filenames": [
+      "*.nim",
+      "*.nimrod"
+    ],
+    "mimetypes": [
+      "text/x-nimrod"
+    ]
+  },
+  {
+    "name": "Nit",
+    "category": "nit",
+    "aliases": [
+      "nit"
+    ],
+    "filenames": [
+      "*.nit"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Nix",
+    "category": "nix",
+    "aliases": [
+      "nixos",
+      "nix"
+    ],
+    "filenames": [
+      "*.nix"
+    ],
+    "mimetypes": [
+      "text/x-nix"
+    ]
+  },
+  {
+    "name": "NumPy",
+    "category": "python",
+    "aliases": [
+      "numpy"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "objdump",
+    "category": "asm",
+    "aliases": [
+      "objdump"
+    ],
+    "filenames": [
+      "*.objdump"
+    ],
+    "mimetypes": [
+      "text/x-objdump"
+    ]
+  },
+  {
+    "name": "Objective-C",
+    "category": "objective",
+    "aliases": [
+      "objective-c",
+      "objectivec",
+      "obj-c",
+      "objc"
+    ],
+    "filenames": [
+      "*.m",
+      "*.h"
+    ],
+    "mimetypes": [
+      "text/x-objective-c"
+    ]
+  },
+  {
+    "name": "Objective-C++",
+    "category": "objective",
+    "aliases": [
+      "objective-c++",
+      "objectivec++",
+      "obj-c++",
+      "objc++"
+    ],
+    "filenames": [
+      "*.mm",
+      "*.hh"
+    ],
+    "mimetypes": [
+      "text/x-objective-c++"
+    ]
+  },
+  {
+    "name": "Objective-J",
+    "category": "javascript",
+    "aliases": [
+      "objective-j",
+      "objectivej",
+      "obj-j",
+      "objj"
+    ],
+    "filenames": [
+      "*.j"
+    ],
+    "mimetypes": [
+      "text/x-objective-j"
+    ]
+  },
+  {
+    "name": "OCaml",
+    "category": "ml",
+    "aliases": [
+      "ocaml"
+    ],
+    "filenames": [
+      "*.ml",
+      "*.mli",
+      "*.mll",
+      "*.mly"
+    ],
+    "mimetypes": [
+      "text/x-ocaml"
+    ]
+  },
+  {
+    "name": "Octave",
+    "category": "matlab",
+    "aliases": [
+      "octave"
+    ],
+    "filenames": [
+      "*.m"
+    ],
+    "mimetypes": [
+      "text/octave"
+    ]
+  },
+  {
+    "name": "Ooc",
+    "category": "ooc",
+    "aliases": [
+      "ooc"
+    ],
+    "filenames": [
+      "*.ooc"
+    ],
+    "mimetypes": [
+      "text/x-ooc"
+    ]
+  },
+  {
+    "name": "Opa",
+    "category": "ml",
+    "aliases": [
+      "opa"
+    ],
+    "filenames": [
+      "*.opa"
+    ],
+    "mimetypes": [
+      "text/x-opa"
+    ]
+  },
+  {
+    "name": "OpenEdge ABL",
+    "category": "business",
+    "aliases": [
+      "openedge",
+      "abl",
+      "progress"
+    ],
+    "filenames": [
+      "*.p",
+      "*.cls"
+    ],
+    "mimetypes": [
+      "text/x-openedge",
+      "application/x-openedge"
+    ]
+  },
+  {
+    "name": "Pan",
+    "category": "dsls",
+    "aliases": [
+      "pan"
+    ],
+    "filenames": [
+      "*.pan"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Pawn",
+    "category": "pawn",
+    "aliases": [
+      "pawn"
+    ],
+    "filenames": [
+      "*.p",
+      "*.pwn",
+      "*.inc"
+    ],
+    "mimetypes": [
+      "text/x-pawn"
+    ]
+  },
+  {
+    "name": "Perl6",
+    "category": "perl",
+    "aliases": [
+      "perl6",
+      "pl6"
+    ],
+    "filenames": [
+      "*.pl",
+      "*.pm",
+      "*.nqp",
+      "*.p6",
+      "*.6pl",
+      "*.p6l",
+      "*.pl6",
+      "*.6pm",
+      "*.p6m",
+      "*.pm6",
+      "*.t"
+    ],
+    "mimetypes": [
+      "text/x-perl6",
+      "application/x-perl6"
+    ]
+  },
+  {
+    "name": "Perl",
+    "category": "perl",
+    "aliases": [
+      "perl",
+      "pl"
+    ],
+    "filenames": [
+      "*.pl",
+      "*.pm",
+      "*.t"
+    ],
+    "mimetypes": [
+      "text/x-perl",
+      "application/x-perl"
+    ]
+  },
+  {
+    "name": "PHP",
+    "category": "php",
+    "aliases": [
+      "php",
+      "php3",
+      "php4",
+      "php5"
+    ],
+    "filenames": [
+      "*.php",
+      "*.php[345]",
+      "*.inc"
+    ],
+    "mimetypes": [
+      "text/x-php"
+    ]
+  },
+  {
+    "name": "Pig",
+    "category": "jvm",
+    "aliases": [
+      "pig"
+    ],
+    "filenames": [
+      "*.pig"
+    ],
+    "mimetypes": [
+      "text/x-pig"
+    ]
+  },
+  {
+    "name": "Pike",
+    "category": "c_like",
+    "aliases": [
+      "pike"
+    ],
+    "filenames": [
+      "*.pike",
+      "*.pmod"
+    ],
+    "mimetypes": [
+      "text/x-pike"
+    ]
+  },
+  {
+    "name": "PL/pgSQL",
+    "category": "sql",
+    "aliases": [
+      "plpgsql"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-plpgsql"
+    ]
+  },
+  {
+    "name": "PostScript",
+    "category": "graphics",
+    "aliases": [
+      "postscript",
+      "postscr"
+    ],
+    "filenames": [
+      "*.ps",
+      "*.eps"
+    ],
+    "mimetypes": [
+      "application/postscript"
+    ]
+  },
+  {
+    "name": "PostgreSQL console (psql)",
+    "category": "sql",
+    "aliases": [
+      "psql",
+      "postgresql-console",
+      "postgres-console"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-postgresql-psql"
+    ]
+  },
+  {
+    "name": "PostgreSQL SQL dialect",
+    "category": "sql",
+    "aliases": [
+      "postgresql",
+      "postgres"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-postgresql"
+    ]
+  },
+  {
+    "name": "POVRay",
+    "category": "graphics",
+    "aliases": [
+      "pov"
+    ],
+    "filenames": [
+      "*.pov",
+      "*.inc"
+    ],
+    "mimetypes": [
+      "text/x-povray"
+    ]
+  },
+  {
+    "name": "PowerShell",
+    "category": "shell",
+    "aliases": [
+      "powershell",
+      "posh",
+      "ps1",
+      "psm1"
+    ],
+    "filenames": [
+      "*.ps1",
+      "*.psm1"
+    ],
+    "mimetypes": [
+      "text/x-powershell"
+    ]
+  },
+  {
+    "name": "Prolog",
+    "category": "prolog",
+    "aliases": [
+      "prolog"
+    ],
+    "filenames": [
+      "*.ecl",
+      "*.prolog",
+      "*.pro",
+      "*.pl"
+    ],
+    "mimetypes": [
+      "text/x-prolog"
+    ]
+  },
+  {
+    "name": "Properties",
+    "category": "configs",
+    "aliases": [
+      "properties",
+      "jproperties"
+    ],
+    "filenames": [
+      "*.properties"
+    ],
+    "mimetypes": [
+      "text/x-java-properties"
+    ]
+  },
+  {
+    "name": "Protocol Buffer",
+    "category": "dsls",
+    "aliases": [
+      "protobuf",
+      "proto"
+    ],
+    "filenames": [
+      "*.proto"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Puppet",
+    "category": "dsls",
+    "aliases": [
+      "puppet"
+    ],
+    "filenames": [
+      "*.pp"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "PyPy Log",
+    "category": "console",
+    "aliases": [
+      "pypylog",
+      "pypy"
+    ],
+    "filenames": [
+      "*.pypylog"
+    ],
+    "mimetypes": [
+      "application/x-pypylog"
+    ]
+  },
+  {
+    "name": "Python 3",
+    "category": "python",
+    "aliases": [
+      "python3",
+      "py3"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-python3",
+      "application/x-python3"
+    ]
+  },
+  {
+    "name": "Python 3.0 Traceback",
+    "category": "python",
+    "aliases": [
+      "py3tb"
+    ],
+    "filenames": [
+      "*.py3tb"
+    ],
+    "mimetypes": [
+      "text/x-python3-traceback"
+    ]
+  },
+  {
+    "name": "Python console session",
+    "category": "python",
+    "aliases": [
+      "pycon"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-python-doctest"
+    ]
+  },
+  {
+    "name": "Python",
+    "category": "python",
+    "aliases": [
+      "python",
+      "py",
+      "sage"
+    ],
+    "filenames": [
+      "*.py",
+      "*.pyw",
+      "*.sc",
+      "SConstruct",
+      "SConscript",
+      "*.tac",
+      "*.sage"
+    ],
+    "mimetypes": [
+      "text/x-python",
+      "application/x-python"
+    ]
+  },
+  {
+    "name": "Python Traceback",
+    "category": "python",
+    "aliases": [
+      "pytb"
+    ],
+    "filenames": [
+      "*.pytb"
+    ],
+    "mimetypes": [
+      "text/x-python-traceback"
+    ]
+  },
+  {
+    "name": "QBasic",
+    "category": "basic",
+    "aliases": [
+      "qbasic",
+      "basic"
+    ],
+    "filenames": [
+      "*.BAS",
+      "*.bas"
+    ],
+    "mimetypes": [
+      "text/basic"
+    ]
+  },
+  {
+    "name": "QML",
+    "category": "webmisc",
+    "aliases": [
+      "qml"
+    ],
+    "filenames": [
+      "*.qml"
+    ],
+    "mimetypes": [
+      "application/x-qml"
+    ]
+  },
+  {
+    "name": "RConsole",
+    "category": "r",
+    "aliases": [
+      "rconsole",
+      "rout"
+    ],
+    "filenames": [
+      "*.Rout"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "RPMSpec",
+    "category": "installers",
+    "aliases": [
+      "spec"
+    ],
+    "filenames": [
+      "*.spec"
+    ],
+    "mimetypes": [
+      "text/x-rpm-spec"
+    ]
+  },
+  {
+    "name": "Racket",
+    "category": "lisp",
+    "aliases": [
+      "racket",
+      "rkt"
+    ],
+    "filenames": [
+      "*.rkt",
+      "*.rktd",
+      "*.rktl"
+    ],
+    "mimetypes": [
+      "text/x-racket",
+      "application/x-racket"
+    ]
+  },
+  {
+    "name": "Ragel in C Host",
+    "category": "parsers",
+    "aliases": [
+      "ragel-c"
+    ],
+    "filenames": [
+      "*.rl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Ragel in CPP Host",
+    "category": "parsers",
+    "aliases": [
+      "ragel-cpp"
+    ],
+    "filenames": [
+      "*.rl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Ragel in D Host",
+    "category": "parsers",
+    "aliases": [
+      "ragel-d"
+    ],
+    "filenames": [
+      "*.rl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Embedded Ragel",
+    "category": "parsers",
+    "aliases": [
+      "ragel-em"
+    ],
+    "filenames": [
+      "*.rl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Ragel in Java Host",
+    "category": "parsers",
+    "aliases": [
+      "ragel-java"
+    ],
+    "filenames": [
+      "*.rl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Ragel",
+    "category": "parsers",
+    "aliases": [
+      "ragel"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "Ragel in Objective C Host",
+    "category": "parsers",
+    "aliases": [
+      "ragel-objc"
+    ],
+    "filenames": [
+      "*.rl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Ragel in Ruby Host",
+    "category": "parsers",
+    "aliases": [
+      "ragel-ruby",
+      "ragel-rb"
+    ],
+    "filenames": [
+      "*.rl"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Raw token data",
+    "category": "special",
+    "aliases": [
+      "raw"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-pygments-tokens"
+    ]
+  },
+  {
+    "name": "Rd",
+    "category": "r",
+    "aliases": [
+      "rd"
+    ],
+    "filenames": [
+      "*.Rd"
+    ],
+    "mimetypes": [
+      "text/x-r-doc"
+    ]
+  },
+  {
+    "name": "REBOL",
+    "category": "rebol",
+    "aliases": [
+      "rebol"
+    ],
+    "filenames": [
+      "*.r",
+      "*.r3",
+      "*.reb"
+    ],
+    "mimetypes": [
+      "text/x-rebol"
+    ]
+  },
+  {
+    "name": "Red",
+    "category": "rebol",
+    "aliases": [
+      "red",
+      "red/system"
+    ],
+    "filenames": [
+      "*.red",
+      "*.reds"
+    ],
+    "mimetypes": [
+      "text/x-red",
+      "text/x-red-system"
+    ]
+  },
+  {
+    "name": "Redcode",
+    "category": "esoteric",
+    "aliases": [
+      "redcode"
+    ],
+    "filenames": [
+      "*.cw"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "reg",
+    "category": "configs",
+    "aliases": [
+      "registry"
+    ],
+    "filenames": [
+      "*.reg"
+    ],
+    "mimetypes": [
+      "text/x-windows-registry"
+    ]
+  },
+  {
+    "name": "ResourceBundle",
+    "category": "resource",
+    "aliases": [
+      "resource",
+      "resourcebundle"
+    ],
+    "filenames": [
+      "*.txt"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Rexx",
+    "category": "scripting",
+    "aliases": [
+      "rexx",
+      "arexx"
+    ],
+    "filenames": [
+      "*.rexx",
+      "*.rex",
+      "*.rx",
+      "*.arexx"
+    ],
+    "mimetypes": [
+      "text/x-rexx"
+    ]
+  },
+  {
+    "name": "RHTML",
+    "category": "templates",
+    "aliases": [
+      "rhtml",
+      "html+erb",
+      "html+ruby"
+    ],
+    "filenames": [
+      "*.rhtml"
+    ],
+    "mimetypes": [
+      "text/html+ruby"
+    ]
+  },
+  {
+    "name": "RobotFramework",
+    "category": "robotframework",
+    "aliases": [
+      "robotframework"
+    ],
+    "filenames": [
+      "*.txt",
+      "*.robot"
+    ],
+    "mimetypes": [
+      "text/x-robotframework"
+    ]
+  },
+  {
+    "name": "RQL",
+    "category": "sql",
+    "aliases": [
+      "rql"
+    ],
+    "filenames": [
+      "*.rql"
+    ],
+    "mimetypes": [
+      "text/x-rql"
+    ]
+  },
+  {
+    "name": "RSL",
+    "category": "dsls",
+    "aliases": [
+      "rsl"
+    ],
+    "filenames": [
+      "*.rsl"
+    ],
+    "mimetypes": [
+      "text/rsl"
+    ]
+  },
+  {
+    "name": "reStructuredText",
+    "category": "markup",
+    "aliases": [
+      "rst",
+      "rest",
+      "restructuredtext"
+    ],
+    "filenames": [
+      "*.rst",
+      "*.rest"
+    ],
+    "mimetypes": [
+      "text/x-rst",
+      "text/prs.fallenstein.rst"
+    ]
+  },
+  {
+    "name": "Ruby irb session",
+    "category": "ruby",
+    "aliases": [
+      "rbcon",
+      "irb"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/x-ruby-shellsession"
+    ]
+  },
+  {
+    "name": "Ruby",
+    "category": "ruby",
+    "aliases": [
+      "rb",
+      "ruby",
+      "duby"
+    ],
+    "filenames": [
+      "*.rb",
+      "*.rbw",
+      "Rakefile",
+      "*.rake",
+      "*.gemspec",
+      "*.rbx",
+      "*.duby"
+    ],
+    "mimetypes": [
+      "text/x-ruby",
+      "application/x-ruby"
+    ]
+  },
+  {
+    "name": "Rust",
+    "category": "rust",
+    "aliases": [
+      "rust"
+    ],
+    "filenames": [
+      "*.rs"
+    ],
+    "mimetypes": [
+      "text/x-rustsrc"
+    ]
+  },
+  {
+    "name": "S",
+    "category": "r",
+    "aliases": [
+      "splus",
+      "s",
+      "r"
+    ],
+    "filenames": [
+      "*.S",
+      "*.R",
+      ".Rhistory",
+      ".Rprofile",
+      ".Renviron"
+    ],
+    "mimetypes": [
+      "text/S-plus",
+      "text/S",
+      "text/x-r-source",
+      "text/x-r",
+      "text/x-R",
+      "text/x-r-history",
+      "text/x-r-profile"
+    ]
+  },
+  {
+    "name": "Standard ML",
+    "category": "ml",
+    "aliases": [
+      "sml"
+    ],
+    "filenames": [
+      "*.sml",
+      "*.sig",
+      "*.fun"
+    ],
+    "mimetypes": [
+      "text/x-standardml",
+      "application/x-standardml"
+    ]
+  },
+  {
+    "name": "Sass",
+    "category": "css",
+    "aliases": [
+      "sass"
+    ],
+    "filenames": [
+      "*.sass"
+    ],
+    "mimetypes": [
+      "text/x-sass"
+    ]
+  },
+  {
+    "name": "Scala",
+    "category": "jvm",
+    "aliases": [
+      "scala"
+    ],
+    "filenames": [
+      "*.scala"
+    ],
+    "mimetypes": [
+      "text/x-scala"
+    ]
+  },
+  {
+    "name": "Scaml",
+    "category": "html",
+    "aliases": [
+      "scaml"
+    ],
+    "filenames": [
+      "*.scaml"
+    ],
+    "mimetypes": [
+      "text/x-scaml"
+    ]
+  },
+  {
+    "name": "Scheme",
+    "category": "lisp",
+    "aliases": [
+      "scheme",
+      "scm"
+    ],
+    "filenames": [
+      "*.scm",
+      "*.ss"
+    ],
+    "mimetypes": [
+      "text/x-scheme",
+      "application/x-scheme"
+    ]
+  },
+  {
+    "name": "Scilab",
+    "category": "matlab",
+    "aliases": [
+      "scilab"
+    ],
+    "filenames": [
+      "*.sci",
+      "*.sce",
+      "*.tst"
+    ],
+    "mimetypes": [
+      "text/scilab"
+    ]
+  },
+  {
+    "name": "SCSS",
+    "category": "css",
+    "aliases": [
+      "scss"
+    ],
+    "filenames": [
+      "*.scss"
+    ],
+    "mimetypes": [
+      "text/x-scss"
+    ]
+  },
+  {
+    "name": "Shell Session",
+    "category": "shell",
+    "aliases": [
+      "shell-session"
+    ],
+    "filenames": [
+      "*.shell-session"
+    ],
+    "mimetypes": [
+      "application/x-sh-session"
+    ]
+  },
+  {
+    "name": "Slim",
+    "category": "webmisc",
+    "aliases": [
+      "slim"
+    ],
+    "filenames": [
+      "*.slim"
+    ],
+    "mimetypes": [
+      "text/x-slim"
+    ]
+  },
+  {
+    "name": "Smali",
+    "category": "dalvik",
+    "aliases": [
+      "smali"
+    ],
+    "filenames": [
+      "*.smali"
+    ],
+    "mimetypes": [
+      "text/smali"
+    ]
+  },
+  {
+    "name": "Smalltalk",
+    "category": "smalltalk",
+    "aliases": [
+      "smalltalk",
+      "squeak",
+      "st"
+    ],
+    "filenames": [
+      "*.st"
+    ],
+    "mimetypes": [
+      "text/x-smalltalk"
+    ]
+  },
+  {
+    "name": "Smarty",
+    "category": "templates",
+    "aliases": [
+      "smarty"
+    ],
+    "filenames": [
+      "*.tpl"
+    ],
+    "mimetypes": [
+      "application/x-smarty"
+    ]
+  },
+  {
+    "name": "Snobol",
+    "category": "snobol",
+    "aliases": [
+      "snobol"
+    ],
+    "filenames": [
+      "*.snobol"
+    ],
+    "mimetypes": [
+      "text/x-snobol"
+    ]
+  },
+  {
+    "name": "SourcePawn",
+    "category": "pawn",
+    "aliases": [
+      "sp"
+    ],
+    "filenames": [
+      "*.sp"
+    ],
+    "mimetypes": [
+      "text/x-sourcepawn"
+    ]
+  },
+  {
+    "name": "Debian Sourcelist",
+    "category": "installers",
+    "aliases": [
+      "sourceslist",
+      "sources.list",
+      "debsources"
+    ],
+    "filenames": [
+      "sources.list"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "SPARQL",
+    "category": "rdf",
+    "aliases": [
+      "sparql"
+    ],
+    "filenames": [
+      "*.rq",
+      "*.sparql"
+    ],
+    "mimetypes": [
+      "application/sparql-query"
+    ]
+  },
+  {
+    "name": "SQL",
+    "category": "sql",
+    "aliases": [
+      "sql"
+    ],
+    "filenames": [
+      "*.sql"
+    ],
+    "mimetypes": [
+      "text/x-sql"
+    ]
+  },
+  {
+    "name": "sqlite3con",
+    "category": "sql",
+    "aliases": [
+      "sqlite3"
+    ],
+    "filenames": [
+      "*.sqlite3-console"
+    ],
+    "mimetypes": [
+      "text/x-sqlite3-console"
+    ]
+  },
+  {
+    "name": "SquidConf",
+    "category": "configs",
+    "aliases": [
+      "squidconf",
+      "squid.conf",
+      "squid"
+    ],
+    "filenames": [
+      "squid.conf"
+    ],
+    "mimetypes": [
+      "text/x-squidconf"
+    ]
+  },
+  {
+    "name": "Scalate Server Page",
+    "category": "templates",
+    "aliases": [
+      "ssp"
+    ],
+    "filenames": [
+      "*.ssp"
+    ],
+    "mimetypes": [
+      "application/x-ssp"
+    ]
+  },
+  {
+    "name": "Stan",
+    "category": "modeling",
+    "aliases": [
+      "stan"
+    ],
+    "filenames": [
+      "*.stan"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Swift",
+    "category": "objective",
+    "aliases": [
+      "swift"
+    ],
+    "filenames": [
+      "*.swift"
+    ],
+    "mimetypes": [
+      "text/x-swift"
+    ]
+  },
+  {
+    "name": "SWIG",
+    "category": "c_like",
+    "aliases": [
+      "swig"
+    ],
+    "filenames": [
+      "*.swg",
+      "*.i"
+    ],
+    "mimetypes": [
+      "text/swig"
+    ]
+  },
+  {
+    "name": "systemverilog",
+    "category": "hdl",
+    "aliases": [
+      "systemverilog",
+      "sv"
+    ],
+    "filenames": [
+      "*.sv",
+      "*.svh"
+    ],
+    "mimetypes": [
+      "text/x-systemverilog"
+    ]
+  },
+  {
+    "name": "TADS 3",
+    "category": "int_fiction",
+    "aliases": [
+      "tads3"
+    ],
+    "filenames": [
+      "*.t"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Tcl",
+    "category": "tcl",
+    "aliases": [
+      "tcl"
+    ],
+    "filenames": [
+      "*.tcl",
+      "*.rvt"
+    ],
+    "mimetypes": [
+      "text/x-tcl",
+      "text/x-script.tcl",
+      "application/x-tcl"
+    ]
+  },
+  {
+    "name": "Tcsh",
+    "category": "shell",
+    "aliases": [
+      "tcsh",
+      "csh"
+    ],
+    "filenames": [
+      "*.tcsh",
+      "*.csh"
+    ],
+    "mimetypes": [
+      "application/x-csh"
+    ]
+  },
+  {
+    "name": "Tea",
+    "category": "templates",
+    "aliases": [
+      "tea"
+    ],
+    "filenames": [
+      "*.tea"
+    ],
+    "mimetypes": [
+      "text/x-tea"
+    ]
+  },
+  {
+    "name": "TeX",
+    "category": "markup",
+    "aliases": [
+      "tex",
+      "latex"
+    ],
+    "filenames": [
+      "*.tex",
+      "*.aux",
+      "*.toc"
+    ],
+    "mimetypes": [
+      "text/x-tex",
+      "text/x-latex"
+    ]
+  },
+  {
+    "name": "Text only",
+    "category": "special",
+    "aliases": [
+      "text"
+    ],
+    "filenames": [
+      "*.txt"
+    ],
+    "mimetypes": [
+      "text/plain"
+    ]
+  },
+  {
+    "name": "Todotxt",
+    "category": "textfmts",
+    "aliases": [
+      "todotxt"
+    ],
+    "filenames": [
+      "todo.txt",
+      "*.todotxt"
+    ],
+    "mimetypes": [
+      "text/x-todo"
+    ]
+  },
+  {
+    "name": "Treetop",
+    "category": "parsers",
+    "aliases": [
+      "treetop"
+    ],
+    "filenames": [
+      "*.treetop",
+      "*.tt"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "HTML+Twig",
+    "category": "templates",
+    "aliases": [
+      "html+twig"
+    ],
+    "filenames": [
+      "*.twig"
+    ],
+    "mimetypes": [
+      "text/html+twig"
+    ]
+  },
+  {
+    "name": "Twig",
+    "category": "templates",
+    "aliases": [
+      "twig"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/x-twig"
+    ]
+  },
+  {
+    "name": "TypeScript",
+    "category": "javascript",
+    "aliases": [
+      "ts"
+    ],
+    "filenames": [
+      "*.ts"
+    ],
+    "mimetypes": [
+      "text/x-typescript"
+    ]
+  },
+  {
+    "name": "UrbiScript",
+    "category": "urbi",
+    "aliases": [
+      "urbiscript"
+    ],
+    "filenames": [
+      "*.u"
+    ],
+    "mimetypes": [
+      "application/x-urbiscript"
+    ]
+  },
+  {
+    "name": "VCTreeStatus",
+    "category": "console",
+    "aliases": [
+      "vctreestatus"
+    ],
+    "filenames": [],
+    "mimetypes": []
+  },
+  {
+    "name": "VGL",
+    "category": "dsls",
+    "aliases": [
+      "vgl"
+    ],
+    "filenames": [
+      "*.rpf"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "Vala",
+    "category": "c_like",
+    "aliases": [
+      "vala",
+      "vapi"
+    ],
+    "filenames": [
+      "*.vala",
+      "*.vapi"
+    ],
+    "mimetypes": [
+      "text/x-vala"
+    ]
+  },
+  {
+    "name": "aspx-vb",
+    "category": "dotnet",
+    "aliases": [
+      "aspx-vb"
+    ],
+    "filenames": [
+      "*.aspx",
+      "*.asax",
+      "*.ascx",
+      "*.ashx",
+      "*.asmx",
+      "*.axd"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "VB.net",
+    "category": "dotnet",
+    "aliases": [
+      "vb.net",
+      "vbnet"
+    ],
+    "filenames": [
+      "*.vb",
+      "*.bas"
+    ],
+    "mimetypes": [
+      "text/x-vbnet",
+      "text/x-vba"
+    ]
+  },
+  {
+    "name": "HTML+Velocity",
+    "category": "templates",
+    "aliases": [
+      "html+velocity"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "text/html+velocity"
+    ]
+  },
+  {
+    "name": "Velocity",
+    "category": "templates",
+    "aliases": [
+      "velocity"
+    ],
+    "filenames": [
+      "*.vm",
+      "*.fhtml"
+    ],
+    "mimetypes": []
+  },
+  {
+    "name": "XML+Velocity",
+    "category": "templates",
+    "aliases": [
+      "xml+velocity"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+velocity"
+    ]
+  },
+  {
+    "name": "verilog",
+    "category": "hdl",
+    "aliases": [
+      "verilog",
+      "v"
+    ],
+    "filenames": [
+      "*.v"
+    ],
+    "mimetypes": [
+      "text/x-verilog"
+    ]
+  },
+  {
+    "name": "vhdl",
+    "category": "hdl",
+    "aliases": [
+      "vhdl"
+    ],
+    "filenames": [
+      "*.vhdl",
+      "*.vhd"
+    ],
+    "mimetypes": [
+      "text/x-vhdl"
+    ]
+  },
+  {
+    "name": "VimL",
+    "category": "textedit",
+    "aliases": [
+      "vim"
+    ],
+    "filenames": [
+      "*.vim",
+      ".vimrc",
+      ".exrc",
+      ".gvimrc",
+      "_vimrc",
+      "_exrc",
+      "_gvimrc",
+      "vimrc",
+      "gvimrc"
+    ],
+    "mimetypes": [
+      "text/x-vim"
+    ]
+  },
+  {
+    "name": "XQuery",
+    "category": "webmisc",
+    "aliases": [
+      "xquery",
+      "xqy",
+      "xq",
+      "xql",
+      "xqm"
+    ],
+    "filenames": [
+      "*.xqy",
+      "*.xquery",
+      "*.xq",
+      "*.xql",
+      "*.xqm"
+    ],
+    "mimetypes": [
+      "text/xquery",
+      "application/xquery"
+    ]
+  },
+  {
+    "name": "XML+Django/Jinja",
+    "category": "templates",
+    "aliases": [
+      "xml+django",
+      "xml+jinja"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+django",
+      "application/xml+jinja"
+    ]
+  },
+  {
+    "name": "XML+Ruby",
+    "category": "templates",
+    "aliases": [
+      "xml+erb",
+      "xml+ruby"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+ruby"
+    ]
+  },
+  {
+    "name": "XML",
+    "category": "html",
+    "aliases": [
+      "xml"
+    ],
+    "filenames": [
+      "*.xml",
+      "*.xsl",
+      "*.rss",
+      "*.xslt",
+      "*.xsd",
+      "*.wsdl",
+      "*.wsf"
+    ],
+    "mimetypes": [
+      "text/xml",
+      "application/xml",
+      "image/svg+xml",
+      "application/rss+xml",
+      "application/atom+xml"
+    ]
+  },
+  {
+    "name": "XML+PHP",
+    "category": "templates",
+    "aliases": [
+      "xml+php"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+php"
+    ]
+  },
+  {
+    "name": "XML+Smarty",
+    "category": "templates",
+    "aliases": [
+      "xml+smarty"
+    ],
+    "filenames": [],
+    "mimetypes": [
+      "application/xml+smarty"
+    ]
+  },
+  {
+    "name": "XSLT",
+    "category": "html",
+    "aliases": [
+      "xslt"
+    ],
+    "filenames": [
+      "*.xsl",
+      "*.xslt",
+      "*.xpl"
+    ],
+    "mimetypes": [
+      "application/xsl+xml",
+      "application/xslt+xml"
+    ]
+  },
+  {
+    "name": "Xtend",
+    "category": "jvm",
+    "aliases": [
+      "xtend"
+    ],
+    "filenames": [
+      "*.xtend"
+    ],
+    "mimetypes": [
+      "text/x-xtend"
+    ]
+  },
+  {
+    "name": "YAML+Jinja",
+    "category": "templates",
+    "aliases": [
+      "yaml+jinja",
+      "salt",
+      "sls"
+    ],
+    "filenames": [
+      "*.sls"
+    ],
+    "mimetypes": [
+      "text/x-yaml+jinja",
+      "text/x-sls"
+    ]
+  },
+  {
+    "name": "YAML",
+    "category": "data",
+    "aliases": [
+      "yaml"
+    ],
+    "filenames": [
+      "*.yaml",
+      "*.yml"
+    ],
+    "mimetypes": [
+      "text/x-yaml"
+    ]
+  },
+  {
+    "name": "Zephir",
+    "category": "php",
+    "aliases": [
+      "zephir"
+    ],
+    "filenames": [
+      "*.zep"
+    ],
+    "mimetypes": []
+  }
+]
