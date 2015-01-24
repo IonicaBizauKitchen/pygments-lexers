@@ -24,6 +24,24 @@ The module exports an array. Each item in the array has the following properties
 }
 ```
 
+```js
+require("pygments-lexers")
+  .filter(function(l) { return l.category === "javascript" })
+  .map(function(l) { return l.name })
+
+[
+  'CoffeeScript',
+  'Dart',
+  'JavaScript',
+  'Kal',
+  'Lasso',
+  'LiveScript',
+  'Mask',
+  'Objective-J',
+  'TypeScript'
+]
+```
+
 ## Tests
 
 ```sh
